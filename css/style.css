@@ -3,4 +3,14 @@
     padding: 0px;
     box-sizing:border-box;
     font-family: 'Rubik', sans-serif;
-}
+    color: white;
+    }
+    .container{
+        background-color:hsl(226, 43%, 10%);
+        margin-top: auto;
+        font-size: 18px;
+        font-family: 'Rubik', sans-serif;
+        display: grid;
+    grid-template-columns: 1fr 350px;
+    gap: 2rem;
+    }
